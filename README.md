@@ -1,5 +1,5 @@
 # PassMenia
-PassMenia is a PassWord generetor tools for developers & software developers to generete the custimazible password as they wants
+PassMenia is a PassWord generetor tools for developers & software engineers to generate the customized password as they wants
 More customizable, convenient, and secure 
 While you’ve always been able to customize password generation settings within the extension, this wasn’t possible within the actual form field—until now.  
 
