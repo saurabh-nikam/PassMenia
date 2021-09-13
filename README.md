@@ -14,6 +14,10 @@ Change the generation settings for the new password directly in the web card
 ## Documentation
 
 [Documentation](https://linktodocumentation)
+[Commander.js](https://www.npmjs.com/package/commander)
+[Chalk.js](https://www.npmjs.com/package/chalk)
+[Clipboardy.js](https://www.npmjs.com/package/clipboardy)
+
 
   ## Color Reference
 
